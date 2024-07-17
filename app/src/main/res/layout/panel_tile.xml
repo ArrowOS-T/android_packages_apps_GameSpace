@@ -20,7 +20,7 @@
     android:layout_margin="4dp"
     android:background="@drawable/tile_background"
     android:orientation="vertical"
-    android:padding="16dp"
+    android:padding="12dp"
     android:theme="@style/GameSpaceTheme.Panel.Tile">
 
     <ImageView
