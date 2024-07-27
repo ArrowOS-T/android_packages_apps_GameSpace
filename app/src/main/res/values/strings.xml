@@ -89,6 +89,5 @@
     <string name="in_game_notifications_title">In-game notifications</string>
     <string name="in_game_notifications_hide">Do not show</string>
     <string name="in_game_notifications_headsup">Show as Heads Up</string>
-    <string name="in_game_notifications_reticker">Show as reTicker</string>
     <string name="in_game_notifications_danmaku">Show as Danmaku</string>
 </resources>
